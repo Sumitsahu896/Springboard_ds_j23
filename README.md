@@ -2,10 +2,6 @@
 
 ![Springboard Logo](https://github.com/Sumitsahu896/Springboard_ds_j23/assets/11928791/2ed892a8-9cae-4913-b199-7abfe5665409)
 
-<div style="background-color:white">
-    <img src="https://github.com/Sumitsahu896/Springboard_ds_j23/assets/11928791/2ed892a8-9cae-4913-b199-7abfe5665409" alt="Springboard Logo" width="300">
-</div>
-
 Welcome to the Springboard Data Science Bootcamp Repository (Springboard_ds_j23)!
 
 This repository is dedicated to the Data Science course offered by Springboard. Here, you will find all the necessary information, homework assignments, capstone projects, and resources related to the course.
