@@ -1,6 +1,6 @@
 # Springboard_ds_j23# Springboard Data Science Bootcamp Repository (Springboard_ds_j23)
 
-![Springboard Logo](https://www.springboard.com/wp-content/themes/springboard/assets/images/logo.svg)
+![Springboard Logo](https://github.com/Sumitsahu896/Springboard_ds_j23/assets/11928791/2ed892a8-9cae-4913-b199-7abfe5665409)
 
 Welcome to the Springboard Data Science Bootcamp Repository (Springboard_ds_j23)!
 
@@ -33,8 +33,6 @@ The repository follows a structured organization to keep the course materials or
 
 - `Assignments`: This folder contains all the assignments given during the course. Each assignment is further organized into subfolders based on the topic or module it covers.
 
-- `Homeworks`: Here, you can find the homework assignments assigned throughout the course. Similar to the Assignments folder, each homework assignment has its own subfolder.
-
 - `Capstone Projects`: This folder is dedicated to the capstone projects undertaken by students. It includes subfolders for each capstone project, where you can find the project deliverables, code, reports, and any related resources.
 
 - `Resources`: In this folder, you will find additional resources such as datasets, reference materials, cheat sheets, and any other supplementary materials that can aid in your learning journey.
@@ -48,7 +46,7 @@ To get started with the Springboard Data Science Bootcamp Repository, follow the
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/Springboard_ds_j23.git
+   git clone https://github.com/sumitsahu896/Springboard_ds_j23.git
    ```
 
 2. Navigate to the repository's root directory:
