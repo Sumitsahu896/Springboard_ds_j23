@@ -63,3 +63,38 @@ for idx, item in enumerate(top_pairs):
 ### Strings
 ![[Pasted image 20240315184507.png]]
 ![[Pasted image 20240315184622.png]]
+### Using dictionaries
+![[Pasted image 20240315194027.png]]
+![[Pasted image 20240315194225.png]]
+##### Altering dictionaries
+![[Pasted image 20240315195056.png]]
+![[Pasted image 20240315195159.png]]
+![[Pasted image 20240315195241.png]]
+##### Pythonically using dictionaries
+![[Pasted image 20240316114600.png]]
+- in operator is more clearer because it returns boolean
+![[Pasted image 20240316114718.png]]
+
+
+##### Mixed data types in dictionaries
+
+![[Pasted image 20240318150300.png]]
+![[Pasted image 20240318150748.png]]
+
+## Numeric Data Types
+- integer
+- float
+- decimal
+- string print 
+	- ``` print(f"{0.0000001: .7f}")```
+- 
+##### Set
+- Unique
+- Unordered
+- Mutable
+##### Counter
+![[Pasted image 20240318164707.png]]
+![[Pasted image 20240318164736.png]]
+
+##### Default dictionary
+![[Pasted image 20240319113114.png]]

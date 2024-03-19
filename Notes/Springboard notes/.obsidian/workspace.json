@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown.md",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown.md",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown.md",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown.md"
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md"
               }
             }
           }
@@ -146,15 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8537208aa72c9ac",
+  "active": "072127ae1c4ffe5b",
   "lastOpenFiles": [
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315184622.png",
-    "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315184507.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315183711.png",
-    "How to use Obsidian.md",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319113114.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318164736.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318164707.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318150748.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318150300.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240316114718.png",
     "markdown.md",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315180330.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240316114600.png",
+    "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315195241.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315195159.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315195056.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315194225.png",
+    "How to use Obsidian.md",
     "Unit 4 - The Python Data Science Stack/images",
     "Welcome.md",
     "Unit 4 - The Python Data Science Stack"
