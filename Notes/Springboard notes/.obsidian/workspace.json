@@ -11,11 +11,9 @@
             "id": "bbab38548e332bf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
-                "mode": "source",
-                "source": false
+                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
+                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
+                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md"
+                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png"
               }
             }
           }
@@ -146,12 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbab38548e332bf6",
+  "active": "072127ae1c4ffe5b",
   "lastOpenFiles": [
-    "Screenshot 2024-03-20 at 6.53.53 PM.png",
-    "Pasted image 20240320182737.png",
-    "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240320182737.png",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
+    "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
+    "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115733.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115719.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115649.png",
@@ -160,7 +158,6 @@
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115530.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319114537.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319114455.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319113114.png",
     "markdown.md",
     "How to use Obsidian.md",
     "Unit 4 - The Python Data Science Stack/images",
