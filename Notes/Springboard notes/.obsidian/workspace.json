@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "077a6a4e6980b865",
+        "id": "2e06ec5e0d695157",
         "type": "tabs",
         "children": [
           {
-            "id": "bbab38548e332bf6",
+            "id": "4fb7c2525806653a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png"
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png"
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md"
               }
             }
           }
@@ -144,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "072127ae1c4ffe5b",
+  "active": "4fb7c2525806653a",
   "lastOpenFiles": [
+    "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240320182737.png",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
-    "Unit 4 - The Python Data Science Stack/images/Screenshot 2024-03-20 at 6.53.53 PM.png",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115733.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115719.png",

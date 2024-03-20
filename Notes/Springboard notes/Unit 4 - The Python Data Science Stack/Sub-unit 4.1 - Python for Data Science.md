@@ -1,27 +1,7 @@
-# March 14th 2024
-
-# TODO
-
-- Python for data science complete.
 
 # Data types for Data Science
 
 ## Introduction datacamp
-
-Things which we will learn:
-
-- Lists
-- Tuples
-- Strings
-- Dictionary
-- Int
-- Float
-- Booleans
-- Sets
-- Advanced Datatypes:
-    - Default dict
-    - Named Tuple
-    - Data classes
 
 ### Lists
 
@@ -128,3 +108,4 @@ for idx, item in enumerate(top_pairs):
 - Make functions return multiple tuples.
 ![[Screenshot 2024-03-20 at 6.53.53 PM.png]]
 
+##### Scope and user-defined functions
