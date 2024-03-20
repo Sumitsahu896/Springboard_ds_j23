@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ba720b47383dd4a",
+        "id": "077a6a4e6980b865",
         "type": "tabs",
         "children": [
           {
-            "id": "e8537208aa72c9ac",
+            "id": "bbab38548e332bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,21 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "072127ae1c4ffe5b",
+  "active": "bbab38548e332bf6",
   "lastOpenFiles": [
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319113114.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318164736.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318164707.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318150748.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240318150300.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240316114718.png",
-    "markdown.md",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240316114600.png",
+    "Screenshot 2024-03-20 at 6.53.53 PM.png",
+    "Pasted image 20240320182737.png",
+    "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315195241.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315195159.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315195056.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240315194225.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115733.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115719.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115649.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115620.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115551.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319115530.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319114537.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319114455.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240319113114.png",
+    "markdown.md",
     "How to use Obsidian.md",
     "Unit 4 - The Python Data Science Stack/images",
     "Welcome.md",

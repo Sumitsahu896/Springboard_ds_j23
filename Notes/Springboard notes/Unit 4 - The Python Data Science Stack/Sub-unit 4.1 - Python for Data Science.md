@@ -98,3 +98,33 @@ for idx, item in enumerate(top_pairs):
 
 ##### Default dictionary
 ![[Pasted image 20240319113114.png]]
+
+##### namedtuple
+
+![[Pasted image 20240319114455.png]]
+![[Pasted image 20240319114537.png]]
+
+##### Dataclasses
+![[Pasted image 20240319115530.png]]
+
+![[Pasted image 20240319115551.png]]
+
+![[Pasted image 20240319115620.png]]
+
+![[Pasted image 20240319115649.png]]
+
+![[Pasted image 20240319115719.png]]
+![[Pasted image 20240319115733.png]]
+
+
+# Python data science toolbox
+
+##### User-defined functions
+- str()
+- Function header, function body
+- ![[Pasted image 20240320182737.png]]
+
+##### Multiple parameters and return values
+- Make functions return multiple tuples.
+![[Screenshot 2024-03-20 at 6.53.53 PM.png]]
+
