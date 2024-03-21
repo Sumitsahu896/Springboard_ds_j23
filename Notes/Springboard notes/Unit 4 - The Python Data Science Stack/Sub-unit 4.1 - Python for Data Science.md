@@ -108,4 +108,10 @@ for idx, item in enumerate(top_pairs):
 - Make functions return multiple tuples.
 ![[Screenshot 2024-03-20 at 6.53.53 PM.png]]
 
-##### Scope and user-defined functions
+##### Nested functions
+- SCOPES searched (LEGB)
+	- Local scope
+	- Enclosing functions
+	- Global and lastly
+	- Built-in
+
