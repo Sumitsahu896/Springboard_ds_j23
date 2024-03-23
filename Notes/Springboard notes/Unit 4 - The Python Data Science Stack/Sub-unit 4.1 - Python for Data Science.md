@@ -115,3 +115,13 @@ for idx, item in enumerate(top_pairs):
 	- Global and lastly
 	- Built-in
 
+##### Flexible arguments
+![[Pasted image 20240321181635.png]]
+
+##### Lambda functions
+![[Pasted image 20240322204351.png]]
+
+![[Pasted image 20240322204453.png]]
+
+
+
