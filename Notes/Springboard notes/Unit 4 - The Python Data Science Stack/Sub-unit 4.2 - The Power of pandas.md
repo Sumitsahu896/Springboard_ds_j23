@@ -17,6 +17,7 @@
 ![[Pasted image 20240323105743.png]]
 
 ##### Adding new columns
+
 ![[Pasted image 20240323150636.png]]
 
 ##### Summary Statistics
@@ -29,6 +30,7 @@
 - `dogs['weight_kg].cumprod()` Cumulative Produce
 
 ##### Counting
+
 ![[Pasted image 20240323180215.png]]
 
 - `unique_dogs['breed'].value_counts(sort=True)`
