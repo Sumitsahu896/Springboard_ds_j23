@@ -123,3 +123,18 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 ![[Pasted image 20240324211042.png]]
 - dataframe.dropna()
 - dataframe.fillna(0)
+
+##### Creating Dataframe
+
+![[Pasted image 20240325191756.png]]
+
+![[Pasted image 20240325191820.png]]
+
+![[Pasted image 20240325191909.png]]
+
+##### Reading and writing CSVs
+
+![[Pasted image 20240325193359.png]]
+
+![[Pasted image 20240325193438.png]]
+
