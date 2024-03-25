@@ -55,9 +55,9 @@
 - dogs.set_index("name")
 - dogs.reset_index()
 - dogs.reset_index(drop=True)
-- ![[Pasted image 20240324162956.png]]
+![[Pasted image 20240324162956.png]]
 - dogs.sort_index()
-- ![[Pasted image 20240324163122.png]]
+![[Pasted image 20240324163122.png]]
 
 ##### Slicing and subsetting 
 
