@@ -32,5 +32,92 @@
 ![[Pasted image 20240323180215.png]]
 
 - `unique_dogs['breed'].value_counts(sort=True)`
-- - `unique_dogs['breed'].value_counts(normalize=True)`
-- 
+- `unique_dogs['breed'].value_counts(normalize=True)` 
+
+##### Grouped summary statistics
+
+![[Pasted image 20240323192639.png]]
+
+![[Pasted image 20240323192656.png]]
+
+##### Pivot tables
+
+![[Pasted image 20240323195730.png]]
+
+![[Pasted image 20240323195924.png]]
+
+![[Pasted image 20240323200045.png]]
+
+##### Explicit indexes
+
+- dogs.columns
+- dogs.index
+- dogs.set_index("name")
+- dogs.reset_index()
+- dogs.reset_index(drop=True)
+- ![[Pasted image 20240324162956.png]]
+- dogs.sort_index()
+- ![[Pasted image 20240324163122.png]]
+
+##### Slicing and subsetting 
+
+![[Pasted image 20240324174851.png]]
+
+![[Pasted image 20240324174904.png]]
+
+![[Pasted image 20240324174946.png]]
+
+![[Pasted image 20240324175000.png]]
+
+![[Pasted image 20240324175016.png]]
+
+![[Pasted image 20240324175052.png]]
+
+- Can slice dates by partial values, of just year.
+
+##### Working with pivot tables
+
+- df.mean(axis="index")
+- You can access the components of a date (year, month and day) using code of the form `dataframe["column"].dt.component`. For example, the month component is `dataframe["column"].dt.month`, and the year component is `dataframe["column"].dt.year`.
+```
+# Get the worldwide mean temp by year
+
+mean_temp_by_year = temp_by_country_city_vs_year.mean(axis='index')
+
+  
+
+# Filter for the year that had the highest mean temp
+
+print(mean_temp_by_year[mean_temp_by_year == mean_temp_by_year.max()])
+
+  
+
+# Get the mean temp by city
+
+mean_temp_by_city = temp_by_country_city_vs_year.mean(axis="columns")
+
+  
+
+# Filter for the city that had the lowest mean temp
+
+print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
+```
+
+##### Visualizing your data
+
+![[Pasted image 20240324190941.png]]
+
+![[Pasted image 20240324191013.png]]
+
+![[Pasted image 20240324191040.png]]
+
+![[Pasted image 20240324191136.png]]
+
+##### Missing Values
+
+- dataframe.isna()
+- dataframe.isna().any()
+- dataframe.isna().sum()
+![[Pasted image 20240324211042.png]]
+- dataframe.dropna()
+- dataframe.fillna(0)
