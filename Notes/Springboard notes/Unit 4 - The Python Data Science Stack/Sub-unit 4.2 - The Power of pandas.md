@@ -138,3 +138,11 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 
 ![[Pasted image 20240325193438.png]]
 
+##### Inner Join
+
+![[Pasted image 20240325202422.png]]
+
+![[Pasted image 20240325202405.png]]
+
+![[Pasted image 20240325202501.png]]
+
