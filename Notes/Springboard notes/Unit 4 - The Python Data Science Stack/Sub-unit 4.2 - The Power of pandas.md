@@ -153,3 +153,9 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 
 ![[Pasted image 20240327221144.png]]
 
+![[Pasted image 20240327221247.png]]
+
+##### Left Join
+
+![[Pasted image 20240328193129.png]]
+
