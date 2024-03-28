@@ -146,3 +146,10 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 
 ![[Pasted image 20240325202501.png]]
 
+##### One- to-many relationship
+![[Pasted image 20240327182343.png]]
+
+![[Pasted image 20240327182357.png]]
+
+![[Pasted image 20240327221144.png]]
+
