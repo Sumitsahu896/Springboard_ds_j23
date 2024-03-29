@@ -159,3 +159,22 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 
 ![[Pasted image 20240328193129.png]]
 
+- A left join will return all of the rows from the left table. If those rows in the left table match multiple rows in the right table, then all of those rows will be returned. Therefore, the returned rows must be equal to if not greater than the left table. Knowing what to expect is useful in troubleshooting any suspicious merges.
+
+##### Right Join
+
+![[Pasted image 20240328194712.png]]
+
+##### Outer Join
+
+![[Pasted image 20240328195010.png]]
+
+##### Merging a table to itself
+
+![[Pasted image 20240328205401.png]]
+
+![[Pasted image 20240328205436.png]]
+
+![[Pasted image 20240328205509.png]]
+
+##### Merging on indexes
