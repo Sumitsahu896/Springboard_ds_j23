@@ -11,9 +11,11 @@
             "id": "a34c79bf23b5d3a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205401.png"
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "a2fd2f496a5d6ac9",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205401.png",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205401.png",
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205401.png"
+                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md"
               }
             }
           }
@@ -146,20 +149,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "072127ae1c4ffe5b",
+  "active": "a34c79bf23b5d3a0",
   "lastOpenFiles": [
+    "Pasted image 20240330184334.png",
+    "Pasted image 20240330184224.png",
+    "Pasted image 20240330184205.png",
+    "Pasted image 20240330184149.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329185234.png",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205509.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205436.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328205401.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328194712.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328195010.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240327221247.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329201927.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329201918.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329201849.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329201757.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329201719.png",
+    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240329185420.png",
     "markdown.md",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240328193129.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240327221144.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240327182357.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240327182343.png",
     "How to use Obsidian.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",

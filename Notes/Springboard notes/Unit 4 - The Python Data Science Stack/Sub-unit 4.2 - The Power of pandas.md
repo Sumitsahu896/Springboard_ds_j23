@@ -178,3 +178,41 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 ![[Pasted image 20240328205509.png]]
 
 ##### Merging on indexes
+
+![[Pasted image 20240329153120.png]]
+
+
+![[Pasted image 20240329153016.png]]
+
+![[Pasted image 20240329153214.png]]
+
+![[Pasted image 20240329153410.png]]
+
+##### Filtering joins
+
+![[Pasted image 20240329185234.png]]
+
+![[Pasted image 20240329185246.png]]
+
+![[Pasted image 20240329185420.png]]
+
+![[Pasted image 20240329201719.png]]
+
+![[Pasted image 20240329201757.png]]
+
+![[Pasted image 20240329201849.png]]
+
+![[Pasted image 20240329201918.png]]
+
+![[Pasted image 20240329201927.png]]
+
+##### Concatenate DF together vertically
+
+![[Pasted image 20240330184149.png]]
+
+![[Pasted image 20240330184205.png]]
+
+![[Pasted image 20240330184224.png]]
+
+![[Pasted image 20240330184334.png]]
+
