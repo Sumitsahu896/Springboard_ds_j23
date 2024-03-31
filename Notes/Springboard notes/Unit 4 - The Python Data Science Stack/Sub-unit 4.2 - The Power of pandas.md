@@ -216,3 +216,34 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 
 ![[Pasted image 20240330184334.png]]
 
+##### Verifying integrity
+
+![[Pasted image 20240331151334.png]]
+
+
+![[Pasted image 20240331145207.png]]
+
+![[Pasted image 20240331145232.png]]
+
+![[Pasted image 20240331150731.png]]
+
+![[Pasted image 20240331150754.png]]
+
+##### Using merge_ordered()
+
+![[Pasted image 20240331153640.png]]
+
+- The results are sorted
+- Ordered data / time series
+- Filling in missing values
+
+![[Pasted image 20240331154133.png]]
+
+![[Pasted image 20240331154413.png]]
+
+![[Pasted image 20240331154456.png]]
+
+##### merge_asof()
+
+![[Pasted image 20240331171427.png]]
+
