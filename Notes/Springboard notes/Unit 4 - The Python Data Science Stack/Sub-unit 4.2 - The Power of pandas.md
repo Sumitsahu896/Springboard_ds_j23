@@ -247,3 +247,24 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 
 ![[Pasted image 20240331171427.png]]
 
+![[Pasted image 20240331173251.png]]
+
+![[Pasted image 20240331173320.png]]
+
+- Data sampled from a process
+- Developing a training set (no data leakage)
+- direction='forward' or 'nearest'
+
+##### Selecting data with .query()
+
+![[Pasted image 20240401160731.png]]
+
+ ![[Pasted image 20240403173230.png]]
+
+##### Reshaping data with .melt()
+
+- When information on the other columns is related to the value of the other column, it's called wide.
+- If one subject is related to many rows, it's called long
+![[Pasted image 20240403174606.png]]
+
+- Melt will help to transfer from wide to long
