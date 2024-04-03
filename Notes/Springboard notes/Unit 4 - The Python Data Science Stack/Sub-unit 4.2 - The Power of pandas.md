@@ -268,3 +268,11 @@ print(mean_temp_by_city[mean_temp_by_city == mean_temp_by_city.min()])
 ![[Pasted image 20240403174606.png]]
 
 - Melt will help to transfer from wide to long
+![[Pasted image 20240403174906.png]]
+
+![[Pasted image 20240403174917.png]]
+
+![[Pasted image 20240403175005.png]]
+
+![[Pasted image 20240403175045.png]]
+
