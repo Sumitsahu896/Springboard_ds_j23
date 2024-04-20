@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.3 - Case Study - London Calling!.md",
+                "file": "Unit 5/The Data Science Spectrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.3 - Case Study - London Calling!.md",
+                "file": "Unit 5/The Data Science Spectrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.3 - Case Study - London Calling!.md",
+                "file": "Unit 5/The Data Science Spectrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4 - The Python Data Science Stack/Sub-unit 4.3 - Case Study - London Calling!.md"
+                "file": "Unit 5/The Data Science Spectrum.md"
               }
             }
           }
@@ -148,10 +148,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a34c79bf23b5d3a0",
+  "active": "072127ae1c4ffe5b",
   "lastOpenFiles": [
-    "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md",
+    "Unit 5/images/Pasted image 20240420101146.png",
+    "Unit 5/images/Pasted image 20240420101119.png",
+    "Unit 5/The Data Science Spectrum.md",
+    "Unit 5/images",
+    "Unit 5/images/Pasted image 20240420100436.png",
+    "U.md",
+    "Unit 5",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.3 - Case Study - London Calling!.md",
+    "Unit 4 - The Python Data Science Stack/Sub-unit 4.2 - The Power of pandas.md",
     "How to use Obsidian.md",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240403174906.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240403175045.png",
@@ -161,8 +168,6 @@
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240403174606.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240403173230.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240401160731.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240331173320.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240331153640.png",
     "markdown.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",
