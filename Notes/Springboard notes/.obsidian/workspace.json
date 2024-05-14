@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fde14b79bd81454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 6/6.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63d9d6cac86426bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 6/6.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0e09a7febad699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 6/6.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,9 +187,15 @@
   },
   "active": "072127ae1c4ffe5b",
   "lastOpenFiles": [
+    "Unit 6/6.2.md",
+    "Unit 6/6.3.md",
+    "Unit 6/6.1.md",
+    "Unit 6/attachment/1686589897_Guided_Capstone_Step_1__Problem_Identification_.pdf",
+    "Unit 5/The Data Science Spectrum.md",
+    "Unit 6/attachment",
+    "Unit 6",
     "Unit 5/images/Pasted image 20240420101146.png",
     "Unit 5/images/Pasted image 20240420101119.png",
-    "Unit 5/The Data Science Spectrum.md",
     "Unit 5/images",
     "Unit 5/images/Pasted image 20240420100436.png",
     "U.md",
@@ -167,7 +210,6 @@
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240331173251.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240403174606.png",
     "Unit 4 - The Python Data Science Stack/images/Pasted image 20240403173230.png",
-    "Unit 4 - The Python Data Science Stack/images/Pasted image 20240401160731.png",
     "markdown.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python for Data Science.md",
     "Unit 4 - The Python Data Science Stack/Sub-unit 4.1 - Python.md",
